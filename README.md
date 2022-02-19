@@ -1,7 +1,7 @@
-# Script V-Code (Version 1)
+# Script Premium
  Welcome Dear😊
 
- <h2 align="center">AutoScript VPN By V-Code <img src="https://img.shields.io/badge/Version-1.0-blue.svg"></h2>
+ <h2 align="center">AutoScript VPN Premium <img src="https://img.shields.io/badge/Version-1.0-blue.svg"></h2>
 
 
 <h2 align="center"> Supported Linux Distribution</h2>
